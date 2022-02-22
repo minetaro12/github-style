@@ -158,6 +158,7 @@ pygmentsUseClasses = true
   lastmod = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
+  avatar = "/images/avatar.png"
   location = "China"
   enableGitalk = true
 
